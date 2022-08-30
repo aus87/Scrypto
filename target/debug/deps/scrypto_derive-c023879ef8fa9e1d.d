@@ -1,0 +1,10 @@
+c:\Users\Austin\projects\Scrypto\Vaultz\target\debug\deps\scrypto_derive-c023879ef8fa9e1d.dll: C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\lib.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\ast.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\blueprint.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\import.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\non_fungible_data.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\utils.rs
+
+c:\Users\Austin\projects\Scrypto\Vaultz\target\debug\deps\scrypto_derive-c023879ef8fa9e1d.d: C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\lib.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\ast.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\blueprint.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\import.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\non_fungible_data.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\utils.rs
+
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\lib.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\ast.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\blueprint.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\import.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\non_fungible_data.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\scrypto-derive\src\utils.rs:

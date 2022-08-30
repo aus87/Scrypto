@@ -1,0 +1,10 @@
+c:\Users\Austin\projects\Scrypto\Vaultz\target\debug\deps\sbor_derive-64834fb54f1158a7.dll: C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\lib.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\decode.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\describe.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\encode.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\type_id.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\utils.rs
+
+c:\Users\Austin\projects\Scrypto\Vaultz\target\debug\deps\sbor_derive-64834fb54f1158a7.d: C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\lib.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\decode.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\describe.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\encode.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\type_id.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\utils.rs
+
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\lib.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\decode.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\describe.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\encode.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\type_id.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor-derive\src\utils.rs:

@@ -1,0 +1,12 @@
+c:\Users\Austin\projects\Scrypto\Vaultz\target\debug\deps\sbor-257e3cd93f623acb.rmeta: C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\lib.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\any.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\decode.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\describe.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\encode.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\path.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\rust.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\type_id.rs
+
+c:\Users\Austin\projects\Scrypto\Vaultz\target\debug\deps\sbor-257e3cd93f623acb.d: C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\lib.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\any.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\decode.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\describe.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\encode.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\path.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\rust.rs C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\type_id.rs
+
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\lib.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\any.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\decode.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\describe.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\encode.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\path.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\rust.rs:
+C:\Users\Austin\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\8c176b7\sbor\src\type_id.rs:
